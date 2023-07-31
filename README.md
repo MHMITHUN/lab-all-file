@@ -1,0 +1,2 @@
+# lab-all-file
+random
